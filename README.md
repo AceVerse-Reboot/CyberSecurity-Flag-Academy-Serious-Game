@@ -1,5 +1,5 @@
 # CyberSecurity-Flag-Academy-Serious-Game
-A Unity serious game for cybersecurity education, showcasing the scene I designed and built.
+A serious game developed with Unity for cybersecurity education, showcasing the scene I designed and built.
 ## Play the Windows demo
 
 [Download CyberSecurity Flag Academy](https://github.com/AceVerse-Reboot/CyberSecurity-Flag-Academy-Serious-Game/releases/tag/v1.0.0)
